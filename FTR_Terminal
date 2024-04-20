@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/freight_transport_region_terminals
+cspring.jpa.hibernate.ddl-auto=update
+spring.datasource.username=root
+spring.datasource.password=Nisha@143*
+server.port=8300
