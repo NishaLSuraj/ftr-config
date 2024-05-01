@@ -2,7 +2,7 @@
 server.port=8090
 
 # Spring Application Name
-spring.application.name=gateway
+spring.application.name=GATEWAY
 
 # Spring Cloud Gateway Routes
 spring.cloud.gateway.routes[0].id=FTR-USERPROFILE
